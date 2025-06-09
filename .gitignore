@@ -13,3 +13,6 @@ environments/dev/terraform.tfstate.backup
 environments/dev/.terraform.lock.hcl**/.terraform/
 **/.terraform.lock.hcl
 **/*.tfstate*
+**/.terraform/
+**/.terraform.lock.hcl
+**/*.tfstate*
