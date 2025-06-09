@@ -1,2 +1,6 @@
 .terraform/
 .terraform/
+terraform.tfstate
+terraform.tfstate.backup
+./environments/bootstrap-backend/.terraform.lock.hcl
+./environments/bootstrap-backend/.terraform
